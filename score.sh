@@ -1,0 +1,1 @@
+python3 scripts/scores.py --dataset test --dataroot data --outfile ms_dst/labels.json --scorefile baseline.val.score.json
